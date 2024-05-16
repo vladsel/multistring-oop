@@ -2,7 +2,8 @@
 The goal of the work is to master the methods of designing interfaces and implementing class methods.
 3.1. Theoretical information.
 3.2. Job assignment
-Job assignment. (01.12.2020)
+Job assignment. (01.12.2020).
+
 Changing the interface is prohibited.
 Option 1.
 Construct a MultiString class to define a vector of strings with the following interface:
